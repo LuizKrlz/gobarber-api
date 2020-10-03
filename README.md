@@ -1,4 +1,4 @@
-<h1 align="center">Welcome to First Project NodeJS 👋</h1>
+<h1 align="center">Welcome to GoBarber API 👋</h1>
 <p>
   <img alt="Version" src="https://img.shields.io/badge/version-1.0.0-blue.svg?cacheSeconds=2592000" />
   <a href="#" target="_blank">
@@ -6,7 +6,7 @@
   </a>
 </p>
 
-> This project is a first module on bootcamp GoStack Rocketseat
+> This project is a API Rest for gobarber
 
 ## Install
 
@@ -22,14 +22,14 @@ yarn dev:server
 
 ## Classes
 
-- initial structure
-- Learning to debug application
+-   initial structure
+-   Learning to debug application
 
 ## Author
 
-- Website: https://www.linkedin.com/in/luizcarlosrochacorrea/
-- Github: [@LuizKrlz](https://github.com/LuizKrlz)
-- LinkedIn: [@luizcarlosrochacorrea](https://linkedin.com/in/luizcarlosrochacorrea)
+-   Website: https://www.linkedin.com/in/luizcarlosrochacorrea/
+-   Github: [@LuizKrlz](https://github.com/LuizKrlz)
+-   LinkedIn: [@luizcarlosrochacorrea](https://linkedin.com/in/luizcarlosrochacorrea)
 
 ## Show your support
 
